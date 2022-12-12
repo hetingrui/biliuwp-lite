@@ -13,3 +13,5 @@ https://github.com/Richasy/Bili.Uwp
 https://app.bilibili.com/
 
 感谢大家6年多以来的支持。
+------------------------------------------------
+去除掉了更新提示
